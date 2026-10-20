@@ -1,0 +1,67 @@
+# Template only. Run scripts/prepare_dataset.py to create a machine-specific config.
+# Do not leave this placeholder path in use for training.
+path: /ABSOLUTE/PATH/TO/DATASET_ROOT
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: red_cube_small
+  1: red_cube_big
+  2: red_cuboid_small
+  3: red_cuboid_big
+  4: red_sphere_small
+  5: red_sphere_big
+  6: red_cone_small
+  7: red_cone_big
+  8: red_cylinder_small
+  9: red_cylinder_big
+  10: blue_cube_small
+  11: blue_cube_big
+  12: blue_cuboid_small
+  13: blue_cuboid_big
+  14: blue_sphere_small
+  15: blue_sphere_big
+  16: blue_cone_small
+  17: blue_cone_big
+  18: blue_cylinder_small
+  19: blue_cylinder_big
+  20: green_cube_small
+  21: green_cube_big
+  22: green_cuboid_small
+  23: green_cuboid_big
+  24: green_sphere_small
+  25: green_sphere_big
+  26: green_cone_small
+  27: green_cone_big
+  28: green_cylinder_small
+  29: green_cylinder_big
+  30: yellow_cube_small
+  31: yellow_cube_big
+  32: yellow_cuboid_small
+  33: yellow_cuboid_big
+  34: yellow_sphere_small
+  35: yellow_sphere_big
+  36: yellow_cone_small
+  37: yellow_cone_big
+  38: yellow_cylinder_small
+  39: yellow_cylinder_big
+  40: orange_cube_small
+  41: orange_cube_big
+  42: orange_cuboid_small
+  43: orange_cuboid_big
+  44: orange_sphere_small
+  45: orange_sphere_big
+  46: orange_cone_small
+  47: orange_cone_big
+  48: orange_cylinder_small
+  49: orange_cylinder_big
+  50: purple_cube_small
+  51: purple_cube_big
+  52: purple_cuboid_small
+  53: purple_cuboid_big
+  54: purple_sphere_small
+  55: purple_sphere_big
+  56: purple_cone_small
+  57: purple_cone_big
+  58: purple_cylinder_small
+  59: purple_cylinder_big
