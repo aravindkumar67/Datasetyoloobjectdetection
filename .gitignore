@@ -1,0 +1,16 @@
+.venv/
+venv/
+.env
+*.py[cod]
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+configs/data_*.yaml
+runs/
+weights/
+reports/*.json
+reports/*.csv
+*.pt
+*.onnx
+*.engine
+.DS_Store
